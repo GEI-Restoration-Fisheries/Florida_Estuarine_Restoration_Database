@@ -2,7 +2,7 @@
 
 All notable changes to the Florida Estuarine Restoration Database will be documented in this file.
 
-## [V 1.0.0] - 2026-##-##
+## [V 1.0.0] - 2026-11-03
 
 The original release of the Florida Estuarine Restoration Database. 
 
