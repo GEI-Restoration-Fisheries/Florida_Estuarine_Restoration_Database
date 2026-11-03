@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Leah L. Dale</origin>
+        <origin>Bogdan Chivoiu</origin>
+        <origin>Michael J. Osland</origin>
+        <origin>Nicholas M. Enwright</origin>
+        <origin>Karen M. Thorne</origin>
+        <origin>Glenn R. Guntenspergen</origin>
+        <origin>James B. Grace</origin>
+        <pubdate>20220218</pubdate>
+        <title>Estuarine drainage area boundaries for the conterminous United States</title>
+        <geoform>vector digital data</geoform>
+        <onlink>https://doi.org/10.5066/P9LPN3YY</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Michael J. Osland</origin>
+            <origin>Bogdan Chivoiu</origin>
+            <origin>Nicholas M. Enwright</origin>
+            <origin>Karen M. Thorne</origin>
+            <origin>Glenn R. Guntenspergen</origin>
+            <origin>James B. Grace</origin>
+            <origin>Leah L. Dale</origin>
+            <origin>William Brooks</origin>
+            <origin>Nate Herold</origin>
+            <origin>John W. Day</origin>
+            <origin>Fred H. Sklar</origin>
+            <origin>Christopher M. Swarzenzki</origin>
+            <pubdate>202207</pubdate>
+            <title>Migration and transformation of coastal wetlands in response to rising seas</title>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>Science Advances</sername>
+              <issue>vol. 8, issue 26</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>American Association for the Advancement of Science (AAAS)</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.1126/sciadv.abo5174</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>To quantify the potential for landward migration at the estuary level, we developed a geospatial dataset for the conterminous United States (CONUS) that identifies the boundaries for estuarine drainage areas. Nine estuarine drainage areas in south Florida were delineated using data developed by the South Florida Water Management District (SFWMD 2018). For the rest of CONUS, we used information contained within the National Fish Habitat Action Plan (NFHAP) - Coastal Spatial Framework (CSF) (National Centers for Coastal Ocean Science 2021). The original NFHAP-CSF data included 612 drainage areas, which were too many for our purposes. Therefore, we merged smaller drainage areas with larger, adjacent drainage areas to reduce the number to 166, which includes 62, 39, and 65 estuarine drainage areas along the Pacific, Gulf of Mexico, and Atlantic coasts, respectively. To ensure that all coastal ecosystems were included, the near-coast estuarine drainage area boundaries were expanded oceanward with a 25-km buffer.</abstract>
+      <purpose>Coastal wetlands are highly vulnerable to accelerated sea-level rise rates expected under high greenhouse gas emission scenarios. While ecosystem collapse and conversion to open water is expected for many coastal wetlands under higher rates of sea-level rise, some coastal wetlands can adapt to rising seas via biogeomorphic feedbacks and landward migration. To quantify the potential for landward migration at the estuary level, we developed a CONUS-wide geospatial dataset that identifies the boundaries for estuarine drainage areas (EDA). We derived the EDA boundaries from existing datasets (NFHAP-CSF and South Florida Water Management District Arc Hydro Enhanced Database) by merging smaller drainage areas with larger, adjacent drainage areas to reduce their total number from 612 to 166.</purpose>
+      <supplinf>Author ORCIDs: Dale, L.L.(0000-0002-3480-9954);Chivoiu, B.(0000-0002-4568-3496);Osland, M.J.(0000-0001-9902-8692);Enwright, N.M.(0000-0002-7887-3261);Thorne, K.M.(0000-0002-1381-0657);Guntenspergen, G.R.(0000-0002-8593-0244);Grace, J.B.(0000-0001-6374-4726)</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1985</begdate>
+          <enddate>2020</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-128.2207</westbc>
+        <eastbc>-65.0131</eastbc>
+        <northbc>51.5899</northbc>
+        <southbc>22.6193</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>environment</themekey>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>Marine Realms Information Bank (MRIB) keywords</themekt>
+        <themekey>estuary</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>estuarine drainage area</themekey>
+        <themekey>coastal drainage area</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:61df0e7fd34ed79294021ebe</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Conterminous United States</placekey>
+        <placekey>coastal</placekey>
+        <placekey>Pacific coast</placekey>
+        <placekey>Gulf of Mexico coast</placekey>
+        <placekey>Atlantic coast</placekey>
+        <placekey>Contiguous United States</placekey>
+        <placekey>East coast</placekey>
+        <placekey>West coast</placekey>
+      </place>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>United States</placekey>
+        <placekey>Washington</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>California</placekey>
+        <placekey>Texas</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Mississippi</placekey>
+        <placekey>Alabama</placekey>
+        <placekey>Florida</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>South Carolina</placekey>
+        <placekey>North Carolina</placekey>
+        <placekey>Virginia</placekey>
+        <placekey>Maryland</placekey>
+        <placekey>District of Columbia</placekey>
+        <placekey>Delaware</placekey>
+        <placekey>New Jersey</placekey>
+        <placekey>Pennsylvania</placekey>
+        <placekey>New York</placekey>
+        <placekey>Connecticut</placekey>
+        <placekey>Rhode Island</placekey>
+        <placekey>Massachusetts</placekey>
+        <placekey>New Hampshire</placekey>
+        <placekey>Maine</placekey>
+      </place>
+    </keywords>
+    <accconst>None. Please see 'Distribution Info' for details.</accconst>
+    <useconst>Acknowledgement of the U.S. Geological Survey (USGS) Wetland and Aquatic Research Center (WARC) as a data source would be appreciated in products developed from these data. Such acknowledgement as is standard for citation and legal practices for data sources is expected by users of these data. Sharing new data layers developed directly from the data would be appreciated by the WARC staff. Users should be aware that comparison with other datasets for the same area from other time periods may be inaccurate because of inconsistencies resulting from changes in mapping conventions, data collection procedures, and computer processes over time. These data have been approved for release by the USGS. Although these data have been subjected to rigorous review and are substantially complete, the USGS reserves the right to revise the data pursuant to further analysis and review. Furthermore, these data are released on condition that neither the USGS nor the U.S. Government shall be held liable for any damages resulting from its authorized or unauthorized use.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Leah L. Dale</cntper>
+          <cntorg>U.S. Geological Survey, SOUTHEAST REGION</cntorg>
+        </cntperp>
+        <cntpos>Researcher IV</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>700 Cajundome Blvd.</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>337-266-8560</cntvoice>
+        <cntemail>ldale@contractor.usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 10 Enterprise, ESRI ArcGIS Desktop 10.7</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted.</attraccr>
+    </attracc>
+    <logic>The ArcGIS Topology tools were used to ensure that the final shapefile did not contain gaps or overlaps.</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>A formal accuracy assessment of the horizontal positional information in the data set has not been conducted.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>A formal accuracy assessment of the vertical positional information in the data set is not applicable.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Centers for Coastal Ocean Science</origin>
+            <pubdate>2011</pubdate>
+            <title>National Fish Habitat Action Plan (NFHAP) - Coastal Spatial Framework and Coastal Indicator Data</title>
+            <geoform>vector digital data</geoform>
+            <othercit>National Centers for Coastal Ocean Science. 2021. National Fish Habitat Action Plan (NFHAP) - Coastal Spatial Framework and Coastal Indicator Data, https://inport.nmfs.noaa.gov/inport/item/38929.</othercit>
+            <onlink>https://catalog.data.gov/dataset/national-fish-habitat-action-plan-nfhap-coastal-spatial-framework-and-coastal-indicator-data</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <mdattim>
+              <sngdate>
+                <caldate>1985</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>1999</caldate>
+              </sngdate>
+              <sngdate>
+                <caldate>2011</caldate>
+              </sngdate>
+            </mdattim>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NFHAP</srccitea>
+        <srccontr>NFHAP data were the starting point for the drainage area boundary. The original number of polygons was reduced from 612 to 166 by merging operations, based on several criteria.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>South Florida Water Management District</origin>
+            <pubdate>20180621</pubdate>
+            <title>South Florida Water Management District (SWFMD) Arc Hydro Enhanced Database (AHED): Subbasins</title>
+            <geoform>vector digital data</geoform>
+            <othercit>SFWMD. 2018. Arc Hydro Enhanced Database (AHED) Subbasins. https://geo-sfwmd.hub.arcgis.com/datasets/ahed-subbasins?geometry=-94.915%2C24.526%2C-66.976%2C27.974. Accessed on Apr 2020.</othercit>
+            <onlink>https://geo-sfwmd.hub.arcgis.com/datasets/sfwmd::ahed-subbasins/about</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2018</begdate>
+              <enddate>2021</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>SWFMD AHED Subbasins</srccitea>
+        <srccontr>SWFMD AHED Subbasins data were used to replace or modify the boundaries from the NFHAP data for nine estuaries in south Florida, where NFHAP data were deemed not representative enough.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>To identify estuary boundaries, we predominately used the estuarine drainage area (EDA), coastal drainage area (CDA), and fluvial drainage area data contained within the NFHAP - Coastal Spatial Framework. The shapefile was first simplified by dissolving by EDACDA code, which merged water features with the surrounding EDA, water features with the surrounding CDA, EDAs embedded in a larger EDA, and large bays with contributing rivers and associated EDAs.
+To further simplify the shapefile, small features were merged with adjacent larger drainage areas. In some cases, a small CDA that ran adjacent to multiple larger drainage areas was cut and then the pieces were merged with the adjacent drainage areas. These decisions were deemed reasonable and appropriate by reviewing Watershed Boundary Dataset (WBD) hydrologic unit codes (HUC). Cuts either followed HUC outlines or were made at the boundary of the adjacent drainage areas. State and Federal waters polygons were removed from the shapefile.</procdesc>
+        <srcused>NFHAP</srcused>
+        <procdate>2020</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Upon a team review of drainage areas for south Florida, it was determined that the simplified NFHAP shapefile was inadequate. The boundary for nine estuaries in south Florida were edited using the AHED Subbasin shapefile. The AHED Subbasin boundaries for several estuaries replaced the NFHAP outlines. Two AHED polygons were merged with corresponding NFHAP polygons. Four non-coastal AHED polygons were removed. The ArcGIS Topology tools were used to ensure that the final shapefile did not contain gaps or overlaps.</procdesc>
+        <srcused>SWFMD AHED Subbasins</srcused>
+        <procdate>2020</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>166</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>29.5</stdparll>
+            <stdparll>45.5</stdparll>
+            <longcm>-96.0</longcm>
+            <latprjo>37.5</latprjo>
+            <feast>0.0</feast>
+            <fnorth>0.0</fnorth>
+          </albers>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.6096</absres>
+            <ordres>0.6096</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North_American_Datum_1983</horizdn>
+        <ellips>GRS_1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ConUS_EstuarineDrainageAreas.shp Attribute Table</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Name</attrlabl>
+        <attrdef>Estuarine or coastal drainage area name</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Estuarine drainage area name or coastal drainage area name as present in the original NFHAP data, or multiple drainage area names combined to reflect the geographical merging of several EDA and CDA polygons.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GeoID</attrlabl>
+        <attrdef>Estuarine drainage area ID that orders the EDAs and CDAs geographically, from north to south on the West coast, from west to east on the Gulf of Mexico coast, and from south to north on the East coast</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>166</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the USGS, no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9LPN3YY</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20220721</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Leah L. Dale</cntper>
+          <cntorg>U.S. Geological Survey, SOUTHEAST REGION</cntorg>
+        </cntperp>
+        <cntpos>Researcher IV</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>700 Cajundome Blvd</address>
+          <city>Lafayette</city>
+          <state>LA</state>
+          <postal>70506</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>337-266-8560</cntvoice>
+        <cntemail>ldale@contractor.usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

@@ -1,0 +1,35 @@
+National Aquatic Barrier Inventory - Terms of Use
+----------------------------------------------------------------
+
+Data version: 4.0.0
+Data published: 2/4/2026
+
+Downloaded from: https://tool.aquaticbarriers.org on 03/06/2026
+
+By downloading these data, you have agreed to the following terms:
+
+1) you will credit NACC, SARP, and NFHP in anything produced using the data
+   provided in this dataset including, but not limited to, peer-reviewed
+   publications via acknowledgments, presentations and reports via logo placement,
+   and newsletter or interview articles via logo and/or verbal credit.
+
+2) you have agreed to be contacted by NACC staff if a data issue is discovered
+   in the data made available through this tool.  However, NACC staff are not
+   obligated to notify you of any data issues.
+
+3) you have agreed to be contacted by NACC staff for information about how you
+   are using these data, in order to help NACC staff report statistics to NACC's
+   funders and partners, who have helped make these data available to you.
+
+4) you have agreed to be contacted by NACC staff upon data updates to ensure you
+   are working with the most accurate data available.  However, NACC staff are not
+   obligated to notify you of data updates.
+
+For your convenience, the NACC logo is included in this download
+"NACC_logo.svg".  If you need this in a different format, please contact us at
+kat@southeastaquatics.net.
+
+
+Citation:
+---------
+National Aquatic Connectivity Collaborative (NACC). 2026. National Aquatic Barrier Inventory v4.0.0 (2/4/2026). Compiled by the Southeast Aquatic Resources Partnership (https://southeastaquatics.net) and the National Fish Habitat Partnership (https://www.fishhabitat.org/). [Downloaded 03/06/2026 from https://tool.aquaticbarriers.org].
