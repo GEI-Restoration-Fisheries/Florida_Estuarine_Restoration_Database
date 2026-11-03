@@ -24,13 +24,17 @@ For information on database structure, variables, and classifications, see the d
   
 - [CHANGELOG.md](https://github.com/GEI-Restoration-Fisheries/Florida_Estuarine_Restoration_Database/blob/main/CHANGELOG.md) - Documents changes between releases, including release dates, data sources added or updated, changes to project records, and substantial changes to processing methods or database structure.
 
+## Interactive Dashboard
+
+An [interactive dashboard](https://shiny.tbep.org/FER-Dashboard/) is available to explore and visualize the most current version of the Florida Estuarine Restoration Database.
+
 ## Citation
 
 If you use the Florida Estuarine Restoration Database, please cite the associated database publication and repository: 
 
+- [add citation here]
+
 
 ## Licenses
 
-The database and associated documentation are made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
-
-The R scripts are made available under the MIT License.
+The database, R scripts, and associated documentation are made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
