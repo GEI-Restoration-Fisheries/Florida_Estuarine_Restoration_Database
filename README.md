@@ -21,6 +21,8 @@ For information on database structure, variables, and classifications, see the d
 - [Database Protocol](https://github.com/GEI-Restoration-Fisheries/Florida_Estuarine_Restoration_Database/blob/main/Database_Development_Protocol.pdf) – Description of the database compilation, screening, standardization, and harmonization methods.
 
 - [Database Metadata](https://github.com/GEI-Restoration-Fisheries/Florida_Estuarine_Restoration_Database/blob/main/Metadata.pdf) – Variable definitions, descriptions, and associated classifications.
+  
+- [CHANGELOG.md](https://github.com/GEI-Restoration-Fisheries/Florida_Estuarine_Restoration_Database/blob/main/CHANGELOG.md) - Documents changes between releases, including release dates, data sources added or updated, changes to project records, and substantial changes to processing methods or database structure.
 
 ## Citation
 
